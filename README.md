@@ -34,7 +34,7 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 
 
 For Demo checkout following link👇: <br />
-[Fully Responsive Website with Modern UI/UX in React JS with Tailwind](https://ts-brainwave.vercel.app/) <br />
+[Three.js & GSAP || Apple Website](https://ts-brainwave.vercel.app/) <br />
 
 
 
