@@ -81,7 +81,7 @@ For Demo checkout following link👇: <br />
 
 #### Mobile Version
 
-
+<p align="center">
 
 
 ![Three.js & GSAP || Apple Website](https://iili.io/J6nsya2.png)
@@ -94,7 +94,7 @@ For Demo checkout following link👇: <br />
 
 
 
-
+</p>
 
 
 
